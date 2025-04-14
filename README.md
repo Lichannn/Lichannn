@@ -14,7 +14,7 @@
 - 🌱 Some tools I’ve used and learned:  
   `JavaScript` | `HTML` | `CSS` | `PHP` | `Python` | `Visual Studio Code` | `Git` | `Laravel` | `ReactJS` | `Docker`  
 - 💬 Ask me about **web development, data analysis, or anything tech-related!**  
-- 📫 How to reach me: **[your.email@example.com]** | [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)  
+- 📫 How to reach me: **[christmario20@gmail.com]** | [LinkedIn](https://www.linkedin.com/in/christmario) | [Instagram](https://twitter.com/yourhandle)  
 - ❤️ I love **coding, teaching, coffee, and late-night debugging 😅**  
 - ⚡ Fun fact: **I sometimes talk to my code like it's going to answer back. Spoiler: It doesn't.**
 

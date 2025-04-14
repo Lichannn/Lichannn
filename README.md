@@ -35,12 +35,11 @@
 
 ### 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lichannn&layout=compact&theme=radical&hide_progress=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Lichannn&show_icons=true&theme=radical" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lichannn&layout=compact&theme=radical&hide_progress=true&card_width=350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lichannn&show_icons=true&theme=radical" />
+</p>
+
 
 
 

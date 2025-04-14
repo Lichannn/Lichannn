@@ -36,8 +36,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lichannn&layout=compact&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lichannn&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lichannn&layout=compact&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lichannn&show_icons=true&theme=radical" width="50%" />
 </p>
 
 

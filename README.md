@@ -14,7 +14,7 @@
 - 🌱 Some tools I’ve used and learned:  
   `JavaScript` | `HTML` | `CSS` | `PHP` | `Python` | `Visual Studio Code` | `Git` | `Laravel` | `ReactJS` | `Docker`  
 - 💬 Ask me about **web development, data analysis, or anything tech-related!**  
-- 📫 How to reach me: **[christmario20@gmail.com]** | [LinkedIn](https://www.linkedin.com/in/christmario) | [Instagram](https://twitter.com/yourhandle)  
+- 📫 How to reach me: **[christmario20@gmail.com]** | [LinkedIn](https://www.linkedin.com/in/christmario)
 - ❤️ I love **coding, teaching, coffee, and late-night debugging 😅**  
 - ⚡ Fun fact: **I sometimes talk to my code like it's going to answer back. Spoiler: It doesn't.**
 
@@ -36,8 +36,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristMario&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristMario&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lichannn&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lichannn&theme=radical" width="47%" />
 </p>
 
 ---
@@ -47,7 +47,6 @@
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
